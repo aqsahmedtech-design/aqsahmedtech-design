@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Animated Banner — Matrix green + gold scheme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A1A0A,40:00FF88,100:FFD700&height=200&section=header&text=Abdul%20Islam&fontSize=80&fontColor=0A1A0A&animation=blinking&fontAlignY=55&desc=PHP%20Engineer%20%7C%20WordPress%20Architect%20%7C%20Web%20Craftsman&descAlignY=75&descAlign=50&descSize=16&descColor=0A1A0A" />
+<!-- Animated Header Banner — Deep Navy + Electric Blue + Gold, British Premium feel -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D2B,40:1B3A8C,70:2563EB,100:F59E0B&height=230&section=header&text=Aqs%20Ahmed&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Senior%20PHP%20Engineer%20%7C%20WordPress%20Architect%20%7C%208%2B%20Years%20of%20Mastery&descAlignY=70&descAlign=50&descSize=17&descColor=CBD5E1" />
 
 </div>
 
 <div align="center">
 
-<!-- Typing SVG — green terminal theme -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=26&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+World!+I'm+Abdul+Islam+⚡;PHP+Engineer+%7C+WordPress+Architect;Crafting+the+Web%2C+One+Line+at+a+Time+🛠️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Welcome!+I'm+Aqs+Ahmed+🇬🇧;Senior+PHP+Engineer+%7C+WordPress+Architect;8%2B+Years+Crafting+Exceptional+Web+Solutions+✨;Based+in+the+United+Kingdom+🏴󠁧󠁢󠁥󠁮󠁧󠀏󠀏󠀏󠀏󠀏󠀏󠀏)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,30 +15,13 @@
 
 <div align="center">
 
-<!-- Social badges — green/gold palette -->
-<a href="mailto:abdulislam@email.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=aqsahmed&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-<a href="https://www.linkedin.com/in/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Open%20To-New%20Projects-F59E0B?style=for-the-badge&logo=checkmarx&logoColor=0D0D2B" />
 &nbsp;
-<a href="https://github.com/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Based%20In-United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7-2563EB?style=for-the-badge" />
 &nbsp;
-<a href="https://abdulislam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=firefox-browser&logoColor=0A1A0A" />
-</a>
-&nbsp;
-<a href="https://twitter.com/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://discord.com/users/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Experience-8%2B%20Years-F59E0B?style=for-the-badge&logo=buffer&logoColor=0D0D2B" />
 
 </div>
 
@@ -47,47 +29,48 @@
 
 ---
 
-## ⚡ About Me
+## 🎖️ About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 ```bash
 $ whoami
-> Abdul Islam
+> Aqs Ahmed
 
 $ cat profile.yaml
 ---
-Name        : Abdul Islam
-Role        : PHP Engineer & WordPress Architect
-Location    : 🇵🇰 Pakistan → 🌍 Working Worldwide
-Experience  : 4+ Years in PHP & WordPress
-Passion     : Crafting Robust, Scalable Web Solutions
-Status      : Open to International Projects ✅
+Name        : Aqs Ahmed
+Role        : Senior PHP Engineer & WordPress Architect
+Location    : 🇬🇧 United Kingdom
+Experience  : 8+ Years in PHP & WordPress
+Passion     : Engineering Robust, Enterprise-Grade Web Solutions
+Status      : Available for New Projects ✅
+Timezone    : GMT / BST (UK Hours)
 ---
 ```
 
 <br/>
 
-- 🔭 Currently building: **custom WordPress plugins & PHP SaaS apps**
+- 🔭 Currently building: **enterprise WordPress platforms & PHP SaaS apps**
 - 🌱 Deep diving into: **Laravel advanced patterns, Headless WP, Docker**
-- 💡 Focused on: **WordPress architecture, WooCommerce & PHP backends**
-- 🤝 Looking to collaborate on: **WordPress & PHP-powered platforms**
+- 💡 8+ years mastering: **WordPress architecture, WooCommerce & PHP backends**
+- 🏆 Delivered: **100+ successful projects** for UK, EU & global clients
+- 🤝 Looking to collaborate on: **complex WordPress & PHP-powered platforms**
 - 🎯 Goal: **Engineer clean, scalable solutions that stand the test of time**
-- 📬 Reach me at: **abdulislam@email.com**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ What I Bring to the Table
+## 🌟 Why Choose a Senior Engineer?
 
 <div align="center">
 
-| 🧱 WordPress Expert | 🐘 PHP Engineering | ⚡ Fast Delivery | 🌐 Global Ready |
+| 🧱 WordPress Expert | 🐘 PHP Engineering | ⚡ Proven Delivery | 🇬🇧 UK-Based |
 |:---:|:---:|:---:|:---:|
-| Custom Themes & Plugins | OOP & Design Patterns | Agile Sprints | Remote-First ✅ |
-| WooCommerce Development | Laravel / CodeIgniter | CI/CD Automation | Timezone Flexible |
-| Gutenberg Block Dev | REST & GraphQL APIs | Code Reviews | Fluent English |
+| Custom Themes & Plugins | OOP & Design Patterns | 8+ Years Track Record | GMT Timezone ✅ |
+| WooCommerce Development | Laravel / CodeIgniter | CI/CD Automation | UK Business Hours |
+| Gutenberg Block Dev | REST & GraphQL APIs | Senior Code Reviews | Native English |
 
 </div>
 
@@ -138,12 +121,12 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulislam&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&title_color=00FF88&icon_color=FFD700&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulislam&theme=chartreuse-dark&hide_border=true&background=0D1F0D&stroke=00FF88&ring=FFD700&fire=FF6B6B&currStreakLabel=00FF88" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aqsahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D2B&title_color=2563EB&icon_color=F59E0B&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aqsahmed&theme=tokyonight&hide_border=true&background=0D0D2B&stroke=2563EB&ring=F59E0B&fire=FF6B6B&currStreakLabel=2563EB" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulislam&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&title_color=00FF88&text_color=ffffff" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D2B&title_color=2563EB&text_color=ffffff" />
 
 </div>
 
@@ -153,7 +136,7 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdulislam&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=aqsahmed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
@@ -163,7 +146,7 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulislam&theme=chartreuse-dark&hide_border=true&bg_color=0D1F0D&color=00FF88&line=FFD700&point=FF6B6B" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aqsahmed&theme=tokyo-night&hide_border=true&bg_color=0D0D2B&color=2563EB&line=F59E0B&point=ffffff" />
 
 </div>
 
@@ -185,6 +168,8 @@ Status      : Open to International Projects ✅
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
+║                  ★  SENIOR ENGINEER — 8+ YEARS  ★                ║
+╠═══════════════════════════════════════════════════════════════════╣
 ║                                                                   ║
 ║   🐘  Custom PHP Development        🔌  WordPress Plugin Dev      ║
 ║   🎨  WordPress Theme Engineering   🛒  WooCommerce Solutions     ║
@@ -192,6 +177,7 @@ Status      : Open to International Projects ✅
 ║   🔄  Third-Party Integrations      📊  Admin Dashboards          ║
 ║   🚀  MVP to Production             🔧  Speed & SEO Optimization  ║
 ║   🏗️  Laravel / CodeIgniter Apps    🤖  Automation & Scripting    ║
+║   🏢  Enterprise WordPress          🔒  Security & Performance    ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
@@ -200,15 +186,15 @@ Status      : Open to International Projects ✅
 
 ---
 
-## 🌍 Global Collaboration
+## 🌍 Availability
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Available%20For-Freelance-00FF88?style=for-the-badge&logo=freelancer&logoColor=0A1A0A" />
+<img src="https://img.shields.io/badge/Available%20For-Freelance-2563EB?style=for-the-badge&logo=freelancer&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Remote%20Full--Time-FFD700?style=for-the-badge&logo=zoom&logoColor=0A1A0A" />
+<img src="https://img.shields.io/badge/Open%20To-Remote%20Full--Time-F59E0B?style=for-the-badge&logo=zoom&logoColor=0D0D2B" />
 &nbsp;
-<img src="https://img.shields.io/badge/Response%20Time-Under%2024hrs-orange?style=for-the-badge&logo=clockify" />
+<img src="https://img.shields.io/badge/Response%20Time-Under%2024hrs-22C55E?style=for-the-badge&logo=clockify&logoColor=white" />
 
 </div>
 
@@ -216,9 +202,9 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-| 🌐 Client Focus | 🕐 Availability | 🗣️ Communication | 💳 Payment |
+| 🌐 Client Focus | 🕐 Timezone | 🗣️ Communication | 💳 Payment |
 |:---:|:---:|:---:|:---:|
-| US, EU, UK, AU | Flexible Timezone | English Fluent | PayPal / Wise / Crypto |
+| UK, EU, US, AU | GMT / BST | English Native | Bank Transfer / PayPal / Wise |
 
 </div>
 
@@ -226,10 +212,11 @@ Status      : Open to International Projects ✅
 
 ## 🧩 Fun Facts
 
-- ⚡ I treat every project like a **product** — not just a task
-- 🐘 PHP is my mother tongue — I've been writing it for **4+ years** and it still excites me
-- 🔌 Built **30+ WordPress plugins** from scratch with clean, documented code
+- 🏆 **8+ years** of PHP & WordPress — I've seen it all, solved it all
+- 🔌 Built **50+ WordPress plugins** from scratch with clean, documented code
 - 🛒 WooCommerce is my playground — custom gateways, shipping rules, you name it
+- 🇬🇧 UK-based means same timezone, same working hours as your team
+- ⚡ I treat every project like a **product** — not just a task
 - 📚 I learn something new **every single day**
 - 🌙 Peak productivity hits after **10 PM** — classic night owl 🦉
 
@@ -266,29 +253,21 @@ Status      : Open to International Projects ✅
 
 ---
 
-## 📬 Let's Build Something Solid
+## 📬 Let's Build Something Exceptional
 
 <div align="center">
 
-### Got a WordPress or PHP project? Let's turn it into something exceptional.
+### Got a WordPress or PHP project? You deserve a Senior Engineer on your side.
 
 <br/>
 
-<a href="mailto:abdulislam@email.com">
-  <img src="https://img.shields.io/badge/📧 Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://calendly.com/aqsahmed" target="_blank">
+  <img src="https://img.shields.io/badge/📅 Book%20a%20Free%20Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://calendly.com/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/📅 Book a Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" />
+<a href="https://aqsahmed.dev" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 View%20Portfolio-2563EB?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abdulislam" target="_blank">
-  <img src="https://img.shields.io/badge/💼 Hire on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdulislam&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -296,6 +275,6 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFD700,40:00FF88,100:0A1A0A&height=120&section=footer&animation=blinking" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:2563EB,100:0D0D2B&height=140&section=footer&animation=fadeIn" />
 
 </div>
